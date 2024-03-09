@@ -10,7 +10,11 @@ internal
    :undoc-members:
    :show-inheritance:
 
-
+.. automodule:: cleanlab.datalab.internal.adapter
+   :autosummary:
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
 .. toctree::
     :maxdepth: 2
